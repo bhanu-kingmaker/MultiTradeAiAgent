@@ -1,5 +1,7 @@
 streamlit
 crewai
+# Add this line specifically
+litellm
 crewai-tools
 python-dotenv
 yfinance
