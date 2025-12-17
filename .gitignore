@@ -1,0 +1,16 @@
+# Secret Keys
+.env
+.streamlit/secrets.toml
+
+# Python artifacts
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Virtual Environments
+venv/
+env/
+
+# CrewAI & System
+.DS_Store
+work-tmp/

@@ -1,0 +1,8 @@
+crewai
+crewai-tools
+python-dotenv
+yfinance
+# The following packages prevent the LiteLLM red error logs
+fastapi
+uvicorn
+apscheduler
