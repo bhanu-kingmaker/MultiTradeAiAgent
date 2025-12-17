@@ -1,8 +1,10 @@
+streamlit
 crewai
 crewai-tools
 python-dotenv
 yfinance
-# The following packages prevent the LiteLLM red error logs
+pandas
+pysqlite3-binary
 fastapi
 uvicorn
 apscheduler
